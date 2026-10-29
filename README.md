@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-HDR+Photography-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-HDR+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Luminance HDR Free Installer** — Luminance HDR is a free, open-source HDR workflow application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Luminance HDR Free Installer** — Luminance HDR is a free, open-source HDR imaging workflow application supporting HDR creation, tonemapping, and export. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Luminance HDR
 
-Luminance HDR is a free, open-source HDR workflow application for Windows, macOS, and Linux. Merge exposure-bracketed photos into HDR images, apply tone mapping with multiple algorithms, and export results for print or web. Luminance HDR supports a wide range of HDR file formats and tone mapping operators, providing a free alternative to commercial HDR software.
+Luminance HDR is a free, open-source HDR imaging workflow application supporting HDR creation, tonemapping, and export. It supports multiple HDR formats and a range of tonemapping operators for creating high dynamic range images from photo brackets.
 
 ---
 
 ## ❌ Problem: Luminance HDR is hard to access
 
-- **Interface Dated** — Visual design less polished than commercial HDR applications
-- **Tone Mapping Complexity** — Multiple operators with many parameters require experimentation
-- **Ghosting Removal** — Anti-ghosting for moving subjects less sophisticated than commercial tools
-- **Documentation** — Tone mapping algorithm documentation highly technical
+- **Dated Interface** — UI design significantly older than modern photo editing tools
+- **Complexity** — HDR concepts and tonemapping operators require learning
+- **Limited Non-HDR Tools** — Not suitable as a general photo editor
+- **Performance** — Can be slow on large HDR images without GPU acceleration
 
 ---
 
@@ -121,7 +121,7 @@ Luminance HDR is a free, open-source HDR workflow application for Windows, macOS
 
 ---
 
-**Luminance HDR Free Installer** — Luminance HDR is a free, open-source HDR workflow application for Windows, macOS, and Linux. Install without internet connection today!
+**Luminance HDR Free Installer** — Luminance HDR is a free, open-source HDR imaging workflow application supporting HDR creation, tonemapping, and export. Install without internet connection today!
 
 <div align="center">
 
